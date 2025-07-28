@@ -1,3 +1,3 @@
 ## Expennses-Tracker
-##monthly expenses 
+##monthly expenses##
 ##track montly expense
